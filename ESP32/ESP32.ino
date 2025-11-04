@@ -1,4 +1,3 @@
-Here is the final code:
 /*
   ESP32 Hydroponics + Blynk (Switch buttons for dosing)
   - Scheduled measure+dose at 07:00 and 19:00 (America/New_York via NTP)
@@ -17,7 +16,7 @@ Here is the final code:
       V12: TDS (ppm)
       V13: pH
 
-  Author: Boris Navarro and William Coleman
+  Author: Boris Navarro and William Coleman*
 */
 
 #if !defined(ESP32)
